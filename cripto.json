@@ -1,0 +1,39 @@
+{"criptos":
+[
+  {
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/150px-Bitcoin.svg.png",
+    "crypto": "BTC",
+    "precio": 69958.2
+  },
+  {
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Solana_cryptocurrency_two.jpg/220px-Solana_cryptocurrency_two.jpg",
+    "crypto": "SOL",
+    "precio": 178.36
+  },
+  {
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ethereum_logo_translucent.svg/170px-Ethereum_logo_translucent.svg.png",
+    "crypto": "ETH",
+    "precio": 3791.99
+  },
+  {
+    "foto": "https://cdn.pixabay.com/photo/2021/04/30/16/47/bnb-6219388_1280.png",
+    "crypto": "BNB",
+    "precio": 616.2
+  },
+  {
+    "foto": "https://i.pinimg.com/736x/d1/da/3e/d1da3e364444683013c6a7ac67d67063.jpg",
+    "crypto": "XRP",
+    "precio": 0.5358
+  },
+  {
+    "foto": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Dogecoin_Logo.png/150px-Dogecoin_Logo.png",
+    "crypto": "DOGE",
+    "precio": 0.16829
+  },
+  {
+    "foto": "https://cryptologos.cc/logos/tron-trx-logo.png?v=029",
+    "crypto": "TRX",
+    "precio": 0.1236
+  }
+]
+}
